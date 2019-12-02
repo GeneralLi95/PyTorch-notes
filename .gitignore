@@ -3,3 +3,5 @@
 *.iml
 .ipynb_checkpoints
 
+.DS_Store
+/4_Training a Classifier/data
